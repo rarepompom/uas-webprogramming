@@ -69,7 +69,7 @@
                             </div>
 
                             <div class="venue-loc d-flex ">
-                                <p class="fw-bold ms-1" style="color: black">$</p>
+                                <p class="fw-bold ms-1" style="color: black">$</p>`
                                 <p class="ms-2">{{ $venue->price }}</p>
                             </div>
 
